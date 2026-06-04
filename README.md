@@ -2,8 +2,7 @@
 # Intelligent Hybrid Recommendation System for Profile-Based Matching
 
 A career-goal-based professional matching system built as a first-year 
-Data Science major project.
-
+Data Science student
 ## What it does
 Recommends the Top-5 most compatible users based on:
 - Professional profile similarity (TF-IDF + Cosine Similarity)
